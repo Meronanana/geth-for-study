@@ -48,6 +48,12 @@ profile.cov
 
 **/yarn-error.log
 
+# module
+node_modules
+
+# bootkey
+boot.key
+
 # data
 /data
 /data1
