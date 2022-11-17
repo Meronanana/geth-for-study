@@ -58,3 +58,9 @@ boot.key
 /data
 /data1
 /data2
+
+# contract files
+contracts/**/_contractAddress.txt
+contracts/**/_transactionHash.txt
+contracts/**/*.abi
+contracts/**/*.bin
