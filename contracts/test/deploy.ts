@@ -1,5 +1,5 @@
 import Web3 from "web3";
-import { TransactionReceipt, TransactionConfig } from "web3-core";
+import { TransactionConfig } from "web3-core";
 import { AbiItem } from "web3-utils";
 import * as fs from "fs";
 
